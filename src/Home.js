@@ -13,12 +13,14 @@ function Home() {
 
         <div className="home__row">
           <Product
+            id="1"
             title="The LeanStartup2: How constant innovative creators"
             price={29.99}
             image="https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SX329_BO1,204,203,200_.jpg"
             rating={3}
           />
           <Product
+            id="2"
             title="Nintendo Switch with Neon Blue and Neon Red Joy‑Con - HAC-001(-01)"
             price={15.96}
             image="https://images-na.ssl-images-amazon.com/images/I/41DQoLIfsRL._AC_US327_FMwebp_QL65_.jpg"
@@ -28,18 +30,21 @@ function Home() {
 
         <div className="home__row">
           <Product
+            id="3"
             title="Nintendo Switch with Neon Blue and Neon Red Joy‑Con - HAC-001(-01)"
             price={15.96}
             image="https://images-na.ssl-images-amazon.com/images/I/41DQoLIfsRL._AC_US327_FMwebp_QL65_.jpg"
             rating={5}
           />
           <Product
+            id="4"
             title="Nintendo Switch with Neon Blue and Neon Red Joy‑Con - HAC-001(-01)"
             price={15.96}
             image="https://images-na.ssl-images-amazon.com/images/I/41DQoLIfsRL._AC_US327_FMwebp_QL65_.jpg"
             rating={5}
           />
           <Product
+            id="5"
             title="Nintendo Switch with Neon Blue and Neon Red Joy‑Con - HAC-001(-01)"
             price={15.96}
             image="https://images-na.ssl-images-amazon.com/images/I/41DQoLIfsRL._AC_US327_FMwebp_QL65_.jpg"
@@ -48,6 +53,7 @@ function Home() {
         </div>
         <div className="home__row">
           <Product
+            id="6"
             title="Nintendo Switch with Neon Blue and Neon Red Joy‑Con - HAC-001(-01)"
             price={15.96}
             image="https://images-na.ssl-images-amazon.com/images/I/41DQoLIfsRL._AC_US327_FMwebp_QL65_.jpg"
